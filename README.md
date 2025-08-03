@@ -4,15 +4,14 @@ Welcome to my tea journal. This repository stores information and tasting notes 
 Each tea has its own markdown file under `teas/`, organized by tea type. Images are stored in `images/`, also organized by type.
 
 ### Handy Links:
-- More details on this journal can be found [here](/About.md).
-- My equipment can be found [here](/Equipment.md).
-- The Brew Log can be viewed [here](/BrewLog.md).
-- Vendors and their information can be found [here](/Vendors.md).
+- More details on this journal → [About](/About.md).
+- My equipment → [Equipment](/Equipment.md).
+- Brew Log with chronological order of brews → [BrewLog](/BrewLog.md).
+- Vendors and their information → [Vendors](/Vendors.md).
 
 ## Folder Structure
-- `README.md` – Index of teas and general information.
 - `teas/` – Contains subfolders by tea type, each with markdown files for teas.
-- `images/` – Contains subfolders by tea type, with images for teas.
+- `images/` – Contains subfolders by tea type, then folders for each tea, with images for teas used in the notes.
 
 ## How to Add a New Tea
 1. Go to the folder under `teas/` that matches the tea type (e.g., `teas/green/`).
