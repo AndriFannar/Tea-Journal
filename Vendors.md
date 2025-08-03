@@ -24,4 +24,6 @@ This file lists tea vendors I have purchased from and tasted, along with basic d
 - **Website:**
 - **Impression:** High-quality sencha with good umami.
 
+---
+
 [← Back to Tea Index](README.md)

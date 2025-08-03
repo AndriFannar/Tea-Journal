@@ -5,4 +5,6 @@
 |------------|----------------|-----------------------------------|-----------|--------------------------------------------|
 | 03/08/2025 | Ichiban Sencha | [Yamatoen](/Vendors.md/#yamatoen) | 1         | [Notes](teas/green/2023-ichiban-sencha.md) |
 
+---
+
 [← Back to Tea Index](/README.md)

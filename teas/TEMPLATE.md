@@ -57,13 +57,15 @@ rating:                # Overall rating out of 10
 
 ## Images
 **Packaging:**  
-![Packaging 1](../../images/<type>/<teaname>/<file_1>.jpg)  
-![Packaging 2](../../images/<type>/<teaname>/<file_2>.jpg)  
+<img src="../../images/<type>/<teaname>/<file_1>.jpg" alt="Packaging 1" width="300">
+<img src="../../images/<type>/<teaname>/<file_2>.jpg" alt="Packaging 2" width="300">
 
 **Leaves:**  
-![Leaves](../../images/<type>/<teaname>/<file>.jpg)  
+<img src="../../images/<type>/<teaname>/<file>.jpg" alt="Leaves 1" width="300">
 
 **Liquor:**  
-![Liquor](../../images/<type>/<teaname>/<file>.jpg)  
+<img src="../../images/<type>/<teaname>/<file>.jpg" alt="Liqour 1" width="300">
+
+---
 
 [← Back to Tea Index](/README.md)

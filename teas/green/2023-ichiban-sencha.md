@@ -60,11 +60,16 @@ rating: 7
 
 ## Images
 **Packaging:**  
-![2023 Ichiban Sencha Complete Packaging](../../images/green/2023-ichiban-sencha/2023-ichiban-sencha-packaging_1.jpg)
-![2023 Ichiban Sencha Packaging Front](../../images/green/2023-ichiban-sencha/2023-ichiban-sencha-packaging_2.jpg)
-![2023 Ichiban Sencha Packaging Back](../../images/green/2023-ichiban-sencha/2023-ichiban-sencha-packaging_3.jpg)
-![2023 Ichiban Sencha Packaging Leaflet](../../images/green/2023-ichiban-sencha/2023-ichiban-sencha-packaging_4.jpg)
+<img src="../../images/green/2023-ichiban-sencha/2023-ichiban-sencha-packaging_1.jpg" alt="2023 Ichiban Sencha Complete Packaging" width="300">
+
+<img src="../../images/green/2023-ichiban-sencha/2023-ichiban-sencha-packaging_2.jpg" alt="2023 Ichiban Sencha Packaging Front" width="300">
+<img src="../../images/green/2023-ichiban-sencha/2023-ichiban-sencha-packaging_3.jpg" alt="2023 Ichiban Sencha Packaging Back" width="300">
+
+<img src="../../images/green/2023-ichiban-sencha/2023-ichiban-sencha-packaging_4.jpg" alt="2023 Ichiban Sencha Packaging Leaflet" width="300">
+
 **Leaves:**  
 **Liquor:**  
+
+---
 
 [← Back to Tea Index](/README.md)
