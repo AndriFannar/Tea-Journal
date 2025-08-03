@@ -9,7 +9,7 @@ rating: 7
 ---
 
 # Ichiban Sencha [First Flush]
-[← Back to Tea Index](../../README.md)
+[← Back to Tea Index](/README.md)
 - **Type:** Green Sencha  
 - **Description:** First flush green tea from the Yamato Highlands in Nara 
 - **Vendor:** [Yamatoen](/Vendors.md#yamatoen) (purchased in Nara, Japan on June 9, 2023)  
@@ -67,4 +67,4 @@ rating: 7
 **Leaves:**  
 **Liquor:**  
 
-[← Back to Tea Index](../../README.md)
+[← Back to Tea Index](/README.md)

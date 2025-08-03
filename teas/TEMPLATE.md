@@ -1,16 +1,16 @@
 ---
-type:                  # tea type (green, black, oolong, puerh, etc.)
-style:                 # tea style (sencha, gyokuro, etc. if applicable)
-region:                # country or region
-vendor:                # vendor/producer
-season:                # harvest year/season
-cultivar:              # cultivar (e.g., Yabukita, Saemidori)
-rating:                # overall rating out of 10
+type:                  # Tea type (Green, Black, Oolong, Puerh, etc.)
+style:                 # Tea style (Sencha, Gyokuro, etc. if applicable)
+region:                # Country or region
+vendor:                # Vendor/producer
+season:                # Harvest year/season
+cultivar:              # Cultivar (e.g., Yabukita, Saemidori)
+rating:                # Overall rating out of 10
 ---
 
 # Tea Name [Optional Descriptor]
-[← Back to Tea Index](../../README.md)
-- **Type:** Tea Type (green, black, oolong, puerh, etc.)
+[← Back to Tea Index](/README.md)
+- **Type:** Tea Type (Green, Black, Oolong, Puerh, etc.)
 - **Description:** Short description of the tea (e.g., "First flush green tea from the Yamato Highlands in Nara").  
 - **Vendor:** Vendor Name W. Link to Vendor Page (how/where purchased, e.g., "purchased in Nara, Japan on June 9, 2023")  
 - **Season:** Time Harvested  (e.g. 28th April 2024)
@@ -66,4 +66,4 @@ rating:                # overall rating out of 10
 **Liquor:**  
 ![Liquor](../../images/<type>/<teaname>/<file>.jpg)  
 
-[← Back to Tea Index](../../README.md)
+[← Back to Tea Index](/README.md)

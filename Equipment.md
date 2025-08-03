@@ -45,7 +45,7 @@ This file lists my brewing equipment. Each item has its own section. Usually use
 ## Teapots
 
 ### Kyūsu
-- **Vendor:**  
+- **Vendor:** Small shop in Tsukiji Fish Market
 - **Material:** Clay  
 - **Volume:** 200 ml  
 - **Date Purchased:** June 2023  
