@@ -1,8 +1,9 @@
 ---
-type: Green Sencha
+type: Green
+style: Sencha
 region: Yamato Highlands, Nara, Japan
 vendor: Yamatoen
-season: 2023 first flush
+season: 2023 First Flush
 cultivar:
 rating: 7
 ---
@@ -11,7 +12,7 @@ rating: 7
 [← Back to Tea Index](../../README.md)
 - **Type:** Green Sencha  
 - **Description:** First flush green tea from the Yamato Highlands in Nara 
-- **Source:** Yamatoen (purchased in Nara, Japan on June 9, 2023)  
+- **Vendor:** [Yamatoen](/Vendors.md#yamatoen) (purchased in Nara, Japan on June 9, 2023)  
 - **Season:** 2023 First Flush
 - **Cultivar:**  
 - **Origin:** Yamato Highlands, Nara, Japan  
@@ -33,14 +34,20 @@ rating: 7
 | Infusion 3    | 70 °C       | 60s  |
 | Infusion 4    | 90 °C       | 60s  |
 
+- **Equipment Used:**
+
+| Session # | Kettle                              | Scale                              | Teapot/Gaiwan                | Pitcher                                                      | Cup                                | 
+|-----------|-------------------------------------|------------------------------------|------------------------------|--------------------------------------------------------------|------------------------------------|
+| 1         | [Lock&Lock](/Equipment.md#locklock) | [VST-2000](/Equipment.md#vst-2000) | [Kyūsu](/Equipment.md#kyūsu) | [Sky Blue Gong Dao Bei](/Equipment.md#sky-blue-gong-dao-bei) | [Sky Blue Cup](/Equipment.md#sky-blue-cups) |
+
 - **Would I Buy Again?**  
   - (03/08/2025): Yes, but prefer richer senchas with more freshness and body.
 
 - **Overall Rating:**  
 
-| Session # | Rating (1-10) |
-|-----------|---------------|
-| 1         | 7/10          |
+| Session # | [Rating (1-10)](/About.md#my-rating-scale) |
+|-----------|--------------------------------------------|
+| 1         | 7/10                                       |
 
 ---
 

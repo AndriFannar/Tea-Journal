@@ -1,5 +1,6 @@
 ---
 type:                  # tea type (green, black, oolong, puerh, etc.)
+style:                 # tea style (sencha, gyokuro, etc. if applicable)
 region:                # country or region
 vendor:                # vendor/producer
 season:                # harvest year/season
@@ -11,7 +12,7 @@ rating:                # overall rating out of 10
 [← Back to Tea Index](../../README.md)
 - **Type:** Tea Type (green, black, oolong, puerh, etc.)
 - **Description:** Short description of the tea (e.g., "First flush green tea from the Yamato Highlands in Nara").  
-- **Source:** Vendor Name (how/where purchased, e.g., "purchased in Nara, Japan on June 9, 2023")  
+- **Vendor:** Vendor Name W. Link to Vendor Page (how/where purchased, e.g., "purchased in Nara, Japan on June 9, 2023")  
 - **Season:** Time Harvested  (e.g. 28th April 2024)
 - **Cultivar:**  (e.g., Yabukita, Saemidori, Okumidori)
 - **Origin:** Region, Country  
@@ -30,14 +31,20 @@ rating:                # overall rating out of 10
 |-----------------|-------------------------|---------------------------|
 | Infusion 1      | Water Temp (e.g. 70 °C) | Length of Brew (e.g. 90s) |
 
+- **Equipment Used:**
+
+| Session # | Kettle                        | Scale                        | Teapot/Gaiwan          | Pitcher                                           | Cup                         | 
+|-----------|-------------------------------|------------------------------|------------------------|---------------------------------------------------|-----------------------------|
+| 1         |                               |                              |                        |                                                   |                             |
+
 - **Would I Buy Again?**  
   - (DD/MM/YYYY): Yes/No + why.
 
 - **Overall Rating:**  
 
-| Session # | Rating (1-10) |
-|-----------|---------------|
-| 1         |               |
+| Session # | [Rating (1-10)](/About.md#my-rating-scale) |
+|-----------|--------------------------------------------|
+| 1         |                                            |
 
 ---
 
