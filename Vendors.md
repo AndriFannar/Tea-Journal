@@ -6,6 +6,7 @@ This file lists tea vendors I have purchased from and tasted, along with basic d
 | Vendor                | Locations                                                |  Notes                                                |
 |-----------------------|----------------------------------------------------------|-------------------------------------------------------|
 | [Yamatoen](#yamatoen) | [Nara, Japan](https://maps.app.goo.gl/A8QdNWFMCtFxZ9QX6) | Good quality sencha. Bought Ichiban Sencha in 2023.   |
+| [Saboe](#saboe) | [Tokyo, Japan](https://saboe.jp/t/locations/) | Great tea with a nice balance. Received 2 Sen as a gift in 2024.   |
 
 ---
 
@@ -23,6 +24,13 @@ This file lists tea vendors I have purchased from and tasted, along with basic d
   - [Ichiban Sencha 2023 (First Flush)](teas/green/2023-ichiban-sencha.md)
 - **Website:**
 - **Impression:** High-quality sencha with good umami.
+
+### Saboe
+- **Locations:** [Tokyo, Japan](https://saboe.jp/t/locations/)
+- **Teas Tried:** 
+  - [2 Sen](teas/green/2024-2-Sen.md)
+- **Website:** [Saboe's Homepage](https://saboe.jp/t/)
+- **Impression:** Great tea with a nice balance.
 
 ---
 
