@@ -64,7 +64,7 @@ rating:                # Overall rating out of 10
 <img src="../../images/<type>/<teaname>/<file>.jpg" alt="Leaves 1" width="300">
 
 **Liquor:**  
-<img src="../../images/<type>/<teaname>/<file>.jpg" alt="Liqour 1" width="300">
+<img src="../../images/<type>/<teaname>/<file>.jpg" alt="Liquor 1" width="300">
 
 ---
 
