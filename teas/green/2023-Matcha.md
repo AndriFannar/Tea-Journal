@@ -24,7 +24,7 @@ rating:                # Overall rating out of 10
 
 ## Quick Notes
 - **First Impression:**  
-  - (17/08/2025): Brighly coloured liquour, very deep and bitter.
+  - (17/08/2025): Brightly coloured liquor, very deep and bitter.
 - **Brew Parameters Used (Session 1):**  
 
 | 2 Chashaku scoops / 60 ml | Temperature | Time |
@@ -51,22 +51,24 @@ rating:                # Overall rating out of 10
 ## Detailed Notes
 | Date       | Session # | Dry Leaf Look      | Dry Leaf Aroma   | Wet Leaf Aroma | Liquor Look      | Texture    | Taste                                     | Empty Cup Aroma | Finish        | Wet Leaf Look     | Brewing Notes | Infusion Notes                                | Overall Impression |
 |------------|-----------|--------------------|------------------|----------------|------------------|------------|-------------------------------------------|-----------------|---------------|-------------------|---------------|-----------------------------------------------|--------------------|
-| 17/08/2025 | 1         | Bright, vibrant fine green powder | Sweet raspberries, fresh gelato | Sweet and fruity, watermelon and blackberries, hint of deeper, grassy notes | Green Kiwi | Very velvety smooth and soft, ligthly coats the mouth and tounge, some astringency | Powerful, bitter while fresh. Umami, nuts, blackberry drops | Sweet and fresh, caramel and sweet drops | Slight pleasant dryness, smooth | Deep pine green | 2 scoops of matcha, made into paste with a but of 70° water, then mixed with a whisk with the remaining ~50 ml. Resulted in a very powerful, potent bowl | --- | A great matcha which strikes a good balance between rich bitterness and sweetness. The combination of the velvety smoothness and complex flavours make this matcha one of my favourites, although if drinking casually I would probably go for only ~1 generous scoop |
+| 17/08/2025 | 1         | Bright, vibrant fine green powder | Sweet raspberries, fresh gelato | Sweet and fruity, watermelon and blackberries, hint of deeper, grassy notes | Green Kiwi | Very velvety smooth and soft, lightly coats the mouth and tongue., some astringency | Powerful, bitter while fresh. Umami, nuts, blackberry drops | Sweet and fresh, caramel and sweet drops | Slight pleasant dryness, smooth | Deep pine green | 2 scoops of matcha, made into paste with a but of 70° water, then mixed with a whisk with the remaining ~50 ml. Resulted in a very powerful, potent bowl | --- | A great matcha which strikes a good balance between rich bitterness and sweetness. The combination of the velvety smoothness and complex flavours make this matcha one of my favourites, although if drinking casually I would probably go for only ~1 generous scoop |
 
 ---
 
 ## Images
 **Packaging:**  
-<img src="../../images/green/2024-2-sen/2024-2-sen-packaging_1.jpg" alt="2024 2 Sen Complete Packaging" width="300">
-<img src="../../images/green/2024-2-sen/2024-2-sen-packaging_2.jpg" alt="2024 2 Sen Packaging Front" width="300">
-<img src="../../images/green/2024-2-sen/2024-2-sen-packaging_3.jpg" alt="2024 2 Sen Packaging Back" width="300">
-<img src="../../images/green/2024-2-sen/2024-2-sen-packaging_4.jpg" alt="2024 2 Sen Packaging Bag" width="300">
+<img src="../../images/green/2023-matcha/2023-matcha-packaging_1.jpg" alt="2023 Matcha Complete Packaging" width="300">
+<img src="../../images/green/2023-matcha/2023-matcha-packaging_2.jpg" alt="2023 Matcha Packaging Front" width="300">
+<img src="../../images/green/2023-matcha/2023-matcha-packaging_3.jpg" alt="2023 Matcha Packaging Side" width="300">
+<img src="../../images/green/2023-matcha/2023-matcha-packaging_4.jpg" alt="2023 Matcha Canister Front" width="300">
+<img src="../../images/green/2023-matcha/2023-matcha-packaging_5.jpg" alt="2023 Matcha Canister Side" width="300">
+<img src="../../images/green/2023-matcha/2023-matcha-packaging_6.jpg" alt="2023 Matcha Receipt" width="300">
 
 **Leaves:**  
-<img src="../../images/green/2024-2-sen/2024-2-sen-leaves_1.jpg" alt="2024 2 Sen Dey Leaves" width="300">
+<img src="../../images/green/2023-matcha/2023-matcha-wet-leaves_1.jpg" alt="2023 Matcha Wet Leaves" width="300">
 
 **Liquor:**  
-<img src="../../images/green/2024-2-sen/2024-2-sen-liquor_1.jpg" alt="2024 2 Sen Liquor" width="300">
+<img src="../../images/green/2023-matcha/2023-matcha-liqour_1.jpg" alt="2023 Matcha Liqour" width="300">
 
 ---
 
