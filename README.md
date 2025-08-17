@@ -28,4 +28,5 @@ Each tea has its own markdown file under `teas/`, organized by tea type. Images 
 |-------------------|-------|--------|----------------------------------|--------|----------|-------------------------------------|-------------|--------------------------------------------|
 | Ichiban Sencha    | Green | Sencha | [Yamatoen](/Vendors.md#yamatoen) | 2023   | Nara, JP | 7/10                                | 03/08/2025  | [Notes](teas/green/2023-ichiban-sencha.md) |
 | 2 Sen             | Green | Sencha Kamairicha | [Saboe](/Vendors.md#saboe) | 2024   | JP | 9/10                                | 04/08/2025  | [Notes](teas/green/2024-2-Sen.md) |
+| Matcha             | Green | Matcha | [Tsuen](/Vendors.md#tsuen) | 2023   | Uji, JP |                                 | 17/08/2025  | [Notes](teas/green/2023-matcha.md) |
 

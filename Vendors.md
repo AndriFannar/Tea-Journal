@@ -7,6 +7,7 @@ This file lists tea vendors I have purchased from and tasted, along with basic d
 |-----------------------|----------------------------------------------------------|-------------------------------------------------------|
 | [Yamatoen](#yamatoen) | [Nara, Japan](https://maps.app.goo.gl/A8QdNWFMCtFxZ9QX6) | Good quality sencha. Bought Ichiban Sencha in 2023.   |
 | [Saboe](#saboe) | [Tokyo, Japan](https://saboe.jp/t/locations/) | Great tea with a nice balance. Received 2 Sen as a gift in 2024.   |
+| [Tsuen](#tsuen) | [Uji, Japan](https://tsuentea.com/) | Oldest teahouse in Uji, very lovely and a nice selection of teas. |
 
 ---
 
@@ -31,6 +32,13 @@ This file lists tea vendors I have purchased from and tasted, along with basic d
   - [2 Sen](teas/green/2024-2-Sen.md)
 - **Website:** [Saboe's Homepage](https://saboe.jp/t/)
 - **Impression:** Great tea with a nice balance.
+
+### Tsuen
+- **Locations:** [Uji, Japan](https://maps.app.goo.gl/BKmRoKCZjandKQVC9)
+- **Teas Tried:** 
+  - [Matcha](teas/green/2023-Matcha.md)
+- **Website:** [Tsuen's Homepage](https://tsuentea.com/)
+- **Impression:** Oldest teahouse in Uji, very lovely and a nice selection of teas.
 
 ---
 
